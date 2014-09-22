@@ -1,0 +1,4 @@
+silex_mooc_personalization:
+    resource: "@SilexMoocPersonalizationBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,3 @@
+silex_mooc_personalization_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: SilexMoocPersonalizationBundle:Default:index }

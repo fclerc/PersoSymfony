@@ -1,0 +1,7 @@
+parameters:
+#    silex_mooc_personalization.example.class: Silex\MoocPersonalizationBundle\Example
+
+services:
+#    silex_mooc_personalization.example:
+#        class: %silex_mooc_personalization.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
