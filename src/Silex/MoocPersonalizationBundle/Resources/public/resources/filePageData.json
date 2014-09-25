@@ -33,12 +33,12 @@
 		"strategyTest": "data\/teacher\/strategies\/"
     },
     "interface":{
-        "profile":"fileValuesModification.php",
-        "liveContext":"fileValuesModification.php",
-        "sequenceContext":"fileValuesModification.php",
-        "strategy":"rules_definition.php",
-        "resources":"resourcesModification.php",
-		"strategyTest": "strategyTest.php"
+        "profile":"fileValuesModification",
+        "liveContext":"fileValuesModification",
+        "sequenceContext":"fileValuesModification",
+        "strategy":"rules_definition",
+        "resources":"resourcesModification",
+        "strategyTest": "strategyTest"
     },
     
     "schema":{
