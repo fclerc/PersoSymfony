@@ -6,7 +6,8 @@ use Symfony\Component\HttpFoundation\Response;
 
 class PersoController extends Controller{
     public function indexAction(){
-        return new Response('Hello');
+        //return new Response('Hello');
+        return $this->render('SilexMoocPersonalizationBundle:Perso:index.html.twig');
     }
     
 }
