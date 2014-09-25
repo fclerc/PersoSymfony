@@ -1,0 +1,1099 @@
+# Mooc personalization
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mooc Personalization\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Florian Clerc <fc@florianclerc.com>\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "strategy.h1"
+msgstr "Stratégie pédagogique "
+
+msgid "strategy.currentFileIntro"
+msgstr "Modification de "
+
+msgid "strategy.profiles.h2"
+msgstr "Sélection des indicateurs"
+
+msgid "strategy.profiles.explanation"
+msgstr "Pour chaque indicateur, une valeur exemple est donnée (en italique)."
+
+msgid "common.back"
+msgstr "Retour au menu principal"
+
+msgid "strategy.rules.h2"
+msgstr "Définition de la stratégie pédagogique"
+
+msgid "strategy.rules.add"
+msgstr "Ajouter une nouvelle règle"
+
+msgid "strategy.rules.save"
+msgstr "Sauvegarder ma stratégie"
+
+msgid "strategy.rules.instructions"
+msgstr ""
+"Lorsque vous créez ou éditez une règle, vous pouvez à tout moment changer "
+"ses valeurs et sa structure en cliquant sur les éléments qui la constituent ."
+
+msgid "strategy.rules.defined.h3"
+msgstr "Règles déjà définies :"
+
+msgid "strategy.activities.h2"
+msgstr "Sélection des activités"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Context"
+msgstr "Contexte"
+
+msgid "context"
+msgstr "contexte"
+
+#
+#
+# Values modification page
+#
+#
+msgid "Save modifications"
+msgstr "Sauvegarder les modifications"
+
+msgid "Learning"
+msgstr "Apprentissage"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Sequence"
+msgstr "Séquence"
+
+msgid "Length"
+msgstr "Durée"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Difficulty"
+msgstr "Difficulté"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Social"
+msgstr "Social"
+
+msgid "Tool"
+msgstr "Outil"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Exercise"
+msgstr "Exercice"
+
+msgid "Grade"
+msgstr "Note"
+
+msgid "Attempts"
+msgstr "Nombre d'essais"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "Goal"
+msgstr "Objectif"
+
+#
+#
+# LearnerProfile
+#
+#
+msgid "learnerMoocProfile"
+msgstr "Profil d'apprenant du MOOC"
+
+msgid "learnerInformation"
+msgstr "informations sur l'apprenant"
+
+msgid "id"
+msgstr "id"
+
+msgid "email"
+msgstr "email"
+
+msgid "birthDate"
+msgstr "date de naissance"
+
+msgid "sex"
+msgstr "sexe"
+
+msgid "professionalSituation"
+msgstr "situation professionnelle"
+
+msgid "educationLevel"
+msgstr "niveau d'éducation"
+
+msgid "educationDomain"
+msgstr "domaine de formation"
+
+msgid "country"
+msgstr "pays"
+
+msgid "languages"
+msgstr "langues"
+
+msgid "language"
+msgstr "langue"
+
+msgid "name"
+msgstr "nom"
+
+msgid "skill"
+msgstr "compétence"
+
+msgid "registrationDate"
+msgstr "date d'inscription"
+
+msgid "colourBlind"
+msgstr "daltonien"
+
+msgid "externalToolsKnowledge"
+msgstr "connaissance des outils extérieurs"
+
+msgid "externalTool"
+msgstr "outil extérieur"
+
+msgid "toolName"
+msgstr "nom de l'outil"
+
+msgid "grade"
+msgstr "note"
+
+msgid "otherInformation"
+msgstr "autre information"
+
+msgid "knowledge"
+msgstr "connaissances"
+
+msgid "courseKnowledge"
+msgstr "connaissances sur le cours"
+
+msgid "knowledgeGroup"
+msgstr "groupe de connaissances"
+
+msgid "value"
+msgstr "valeur"
+
+msgid "knowledgeUnit"
+msgstr "unité de savoir"
+
+msgid "toolsKnowledge"
+msgstr "connaissances sur les outils"
+
+msgid "knowledgeTool"
+msgstr "connaissance sur un outil"
+
+msgid "behaviour"
+msgstr "comportement"
+
+msgid "studentPattern"
+msgstr "type d'apprenant"
+
+msgid "dropoutFlag"
+msgstr "avertissement d'abandon"
+
+msgid "IRLInteraction"
+msgstr "interactions hors MOOC"
+
+msgid "socialInteractions"
+msgstr "interactions sociales"
+
+msgid "socialInteraction"
+msgstr "interaction sociale"
+
+msgid "socialTool"
+msgstr "réseau social"
+
+msgid "forumBehaviour"
+msgstr "comportement sur le forum"
+
+msgid "otherBehaviour"
+msgstr "autre élément de comportement"
+
+msgid "moocInteractions"
+msgstr "interactions avec le MOOC"
+
+msgid "activityDistributions"
+msgstr "distribution des activités"
+
+msgid "activityPerHour"
+msgstr "activité par heure"
+
+msgid "hour"
+msgstr "heure"
+
+msgid "num"
+msgstr "numéro"
+
+msgid "timePercentage"
+msgstr "pourcentage (en temps)"
+
+msgid "actionsPercentage"
+msgstr "pourcentage (en nombre d'actions)"
+
+msgid "activityPerDay"
+msgstr "activité par journée"
+
+msgid "day"
+msgstr "jour"
+
+msgid "activityPerSequence"
+msgstr "activité par séquence"
+
+msgid "sequence"
+msgstr "séquence"
+
+msgid "lastVisits"
+msgstr "dernières visites"
+
+msgid "visit"
+msgstr "visite"
+
+msgid "otherDynamics"
+msgstr "autres indicateurs de dynamique"
+
+msgid "resourcesInteractions"
+msgstr "interactions avec les ressources"
+
+msgid "resourcesConsultation"
+msgstr "consultation de ressources"
+
+msgid "resourceConsultation"
+msgstr "consultation d'une ressource"
+
+msgid "resourceId"
+msgstr "identifiant de la ressource"
+
+msgid "nbConsultations"
+msgstr "nombre de consultations"
+
+msgid "childrenConsultationsDistribution"
+msgstr "distribution de consultation des enfants (en nombre de consultations)"
+
+msgid "childPercentage"
+msgstr "pourcentage"
+
+msgid "resource"
+msgstr "ressource"
+
+msgid "percentage"
+msgstr "pourcentage"
+
+msgid "duration"
+msgstr "durée"
+
+msgid "childrenDurationDistribution"
+msgstr "distribution de consultation des enfants (en temps)"
+
+msgid "completion"
+msgstr "taux de réalisation"
+
+msgid "comparedPercentage"
+msgstr "pourcentage comparé"
+
+msgid "scale"
+msgstr "échelle"
+
+msgid "consultationDuringHomework"
+msgstr "consultations durant les devoirs"
+
+msgid "totalTimeOnHomework"
+msgstr "temps total passé sur les devours"
+
+msgid "timeOtherResourcesDuringHw"
+msgstr "temps total passé sur les autres ressources"
+
+msgid "distribution"
+msgstr "distribution"
+
+msgid "courseware"
+msgstr "matériel de cours"
+
+msgid "forum"
+msgstr "forum"
+
+msgid "wiki"
+msgstr "wiki"
+
+msgid "exercises"
+msgstr "exercices"
+
+msgid "customInteractionIndicator"
+msgstr "indicateur d'interaction personnalisé"
+
+msgid "actionId"
+msgstr "action"
+
+msgid "period"
+msgstr "période"
+
+msgid "interval"
+msgstr "intervalle"
+
+msgid "beginDateTime"
+msgstr "date de début"
+
+msgid "endDateTime"
+msgstr "date de fin"
+
+msgid "comment"
+msgstr "commentaire"
+
+msgid "spaceStructuring"
+msgstr "structuration de l'espace"
+
+msgid "mentalImagesCreation"
+msgstr "aptitude à la création d'images mentales"
+
+msgid "mentalRotations"
+msgstr "aptitude aux rotations mentales"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "sequenceContext"
+msgstr "contexte de la séquence"
+
+msgid "activitiesContext"
+msgstr "contexte : activités"
+
+msgid "numberOfActivities"
+msgstr "nombre d'activités"
+
+msgid "min"
+msgstr "minimum"
+
+msgid "max"
+msgstr "maximum"
+
+msgid "activitiesDuration"
+msgstr "durée des activités"
+
+msgid "quizVariation"
+msgstr "variation des énoncés"
+
+msgid "liveContext"
+msgstr "contexte 'en direct'"
+
+msgid "environmentContext"
+msgstr "contexte : environnement"
+
+msgid "datetime"
+msgstr "date et heure"
+
+msgid "connecteds"
+msgstr "informations sur les personnes connectées"
+
+msgid "connected"
+msgstr "type de personne"
+
+msgid "role"
+msgstr "role"
+
+msgid "number"
+msgstr "nombre de connectés"
+
+msgid "learnerLiveContext"
+msgstr "contexte 'en direct' de l'apprenant"
+
+msgid "IPAddress"
+msgstr "adresse IP"
+
+msgid "device"
+msgstr "appareil"
+
+msgid "OS"
+msgstr "système d'exploitation"
+
+msgid "browser"
+msgstr "navigateur"
+
+msgid "bandwidth"
+msgstr "bande passante"
+
+msgid "availableTime"
+msgstr "temps disponible"
+
+msgid "delay"
+msgstr "retard dans le MOOC"
+
+msgid "timeAlreadySpent"
+msgstr "temps déjà passé sur le MOOC"
+
+msgid "otherLiveInformation"
+msgstr "autres informations 'en direct'"
+
+msgid "Save rule"
+msgstr "Enregistrer la règle"
+
+msgid "Priority: "
+msgstr "Priorité : "
+
+msgid "Rule"
+msgstr "Règle"
+
+msgid "strategy.rules.newrule.delete"
+msgstr "Êtes-vous sûr de vouloir supprimer cette nouvelle règle ?"
+
+msgid "strategy.rules.cantedit"
+msgstr ""
+"Merci de supprimer ou sauvegarder la règle en cours avant d'éditer celle-ci."
+
+msgid "IF"
+msgstr "SI"
+
+msgid "AND"
+msgstr "ET"
+
+msgid "OR"
+msgstr "OU"
+
+msgid "THEN"
+msgstr "ALORS "
+
+msgid "ELSE"
+msgstr "SINON "
+
+msgid "strategy.rules.learnerActivity"
+msgstr "l'apprenant réalisera les activités suivantes : "
+
+msgid "strategy.rules.parametersListIntro"
+msgstr ", avec comme paramètres: "
+
+msgid "strategy.rules.newrule.deleteActivity"
+msgstr "Êtes-vous sûr de vouloir supprimer cette activité ?"
+
+msgid "strategy.save.success"
+msgstr "Vos données ont bien été sauvegardées"
+
+msgid "strategy.rules.delete"
+msgstr ""
+"Êtes-vous sûr de vouloir supprimer cette règle ? Il ne sera plus possible de "
+"la retrouver ensuite"
+
+msgid "true or false"
+msgstr "true (vrai) ou false (faux)"
+
+msgid "scales.enumeration.intro"
+msgstr "Vous pouvez choisir entre : "
+
+msgid "scales.value.intro"
+msgstr "La valeur doit être un"
+
+msgid "scales.usedValuesIntro"
+msgstr ""
+"En définissant les ressources, vous avez utilisé les valeurs suivantes : "
+
+msgid " number"
+msgstr " nombre"
+
+msgid "n integer"
+msgstr " entier"
+
+msgid " number, with step "
+msgstr " nombre, de pas "
+
+msgid "scales.noscale"
+msgstr "Il n'y a pas de contrainte particulière sur cet élément"
+
+msgid "Mandatory"
+msgstr "Obligatoire"
+
+msgid "Optional"
+msgstr "Facultatif"
+
+msgid "Bonus"
+msgstr "Bonus"
+
+msgid "Video"
+msgstr "Vidéo"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Read"
+msgstr "Lire"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Answer"
+msgstr "Répondre"
+
+msgid "Greeting"
+msgstr "Saluer"
+
+msgid "Encouraging"
+msgstr "Encourager"
+
+msgid "Time"
+msgstr "Temps"
+
+msgid "Results"
+msgstr "Résultats"
+
+msgid "strategy.rules.newrule.chose.indicator"
+msgstr " Sélectionnez un indicateur"
+
+msgid "strategy.rules.newrule.chose.activity"
+msgstr "Sélectionnez une activité sur la droite"
+
+msgid "strategy.rules.newrule.chose.parameter"
+msgstr "Sélectionnez un paramètre sur la droite"
+
+msgid "Add activity"
+msgstr "Ajouter une activité"
+
+msgid "Place above"
+msgstr "Déplacer au-dessus"
+
+msgid "xs:duration"
+msgstr "e durée"
+
+msgid "xs:float"
+msgstr " nombre"
+
+msgid "xs:NCName"
+msgstr "e chaîne sans espace, virgule ou ':'"
+
+msgid "xs:integer"
+msgstr " entier"
+
+msgid "xs:NMTOKENS"
+msgstr "e liste d'éléments sans espace ni virgule"
+
+msgid "xs:NMTOKEN"
+msgstr " élément sans espace ni virgule"
+
+msgid "xs:date"
+msgstr "e date"
+
+msgid "xs:string"
+msgstr "e chaîne de caractères"
+
+msgid "xs:boolean"
+msgstr " booléen : true (vrai) ou false (faux)"
+
+msgid "xs:anyType"
+msgstr " élément quelconque"
+
+msgid "xs:dateTime"
+msgstr "e date et heure"
+
+msgid "xs:positiveInteger"
+msgstr " entier positif"
+
+msgid "phone"
+msgstr "smartphone"
+
+msgid "tablet"
+msgstr "tablette"
+
+msgid "computer"
+msgstr "ordinateur"
+
+msgid "google_search_engine"
+msgstr "moteur de recherche Google"
+
+msgid "consultation"
+msgstr "consultation"
+
+msgid "play"
+msgstr "lecture"
+
+msgid "pause"
+msgstr "pause"
+
+msgid "seek_fwd"
+msgstr "recherche avant"
+
+msgid "seek_bck"
+msgstr "recherche arrière"
+
+msgid "change_speed"
+msgstr "changement de vitesse"
+
+msgid "answer_forum"
+msgstr "répondre sur le forum"
+
+msgid "new_thread_forum"
+msgstr "créer un nouveau sujet"
+
+msgid "vote_forum"
+msgstr "vote sur forum"
+
+msgid "save_quiz"
+msgstr "sauvegarder le questionnaire"
+
+msgid "reset_quiz"
+msgstr "remettre le questionnaire à 0"
+
+msgid "submit_quiz"
+msgstr "soumettre le questionnaire"
+
+msgid "show_answer"
+msgstr "afficher les  réponses"
+
+msgid "submit_assignment"
+msgstr "soumettre le devoir"
+
+msgid "save_assignment"
+msgstr "sauvegarder le devoir"
+
+msgid "noshow"
+msgstr "jamais venu"
+
+msgid "active_completing"
+msgstr "participant actif"
+
+msgid "passive_completing"
+msgstr "participant passif"
+
+msgid "auditing"
+msgstr "auditeur"
+
+msgid "disengaging"
+msgstr "qui se désengage"
+
+msgid "disengaging_dropout"
+msgstr "qui se désengage et quitte le MOOC"
+
+msgid "sampling"
+msgstr "échantillonneur"
+
+msgid "absent"
+msgstr "absent"
+
+msgid "reader"
+msgstr "lecteur"
+
+msgid "actor"
+msgstr "acteur"
+
+msgid "native"
+msgstr "natal"
+
+msgid "bilingual"
+msgstr "bilingue"
+
+msgid "fluent"
+msgstr "courant"
+
+msgid "moderate"
+msgstr "modéré"
+
+msgid "unskilled"
+msgstr "sans compétence"
+
+msgid "active"
+msgstr "actif"
+
+msgid "unemployed"
+msgstr "sans emploi"
+
+msgid "student"
+msgstr "étudiant"
+
+msgid "retiree"
+msgstr "à la retraite"
+
+msgid "primary"
+msgstr "primaire"
+
+msgid "secondary"
+msgstr "secondaire"
+
+msgid "bachelor"
+msgstr "licence"
+
+msgid "master"
+msgstr "master"
+
+msgid "doctoral"
+msgstr "doctorat"
+
+msgid " between "
+msgstr " entre "
+
+msgid " and "
+msgstr " et "
+
+msgid ": "
+msgstr " : "
+
+msgid "scales.enumeration.conclu"
+msgstr "cliquez sur la valeur que vous souhaitez"
+
+msgid "Edit rule"
+msgstr "Editer la règle"
+
+msgid "Delete rule"
+msgstr "Supprimer la règle"
+
+msgid "Duplicate rule"
+msgstr "Dupliquer la règle"
+
+msgid "Remove constraint"
+msgstr "Supprimer la contrainte"
+
+msgid "Edit constraint"
+msgstr "Editer la contrainte"
+
+msgid "Edit value"
+msgstr "Editer la valeur"
+
+msgid "Remove activity"
+msgstr "Supprimer l'activité"
+
+msgid "Remove parameter"
+msgstr "Supprimer le paramètre"
+
+msgid "Add parameter"
+msgstr "Ajouter un paramètre"
+
+msgid "More information"
+msgstr "En savoir plus"
+
+msgid "Validate"
+msgstr "Valider"
+
+msgid "Combine with another constraint"
+msgstr "Combiner avec une autre contrainte"
+
+#
+#
+# File choice page
+#
+#
+msgid "fileChoice.h1"
+msgstr ""
+"Mise en place de la personnalisation dans le cadre des MOOCs - Version de "
+"démonstration."
+
+msgid "fileChoice.explanations"
+msgstr ""
+"Bienvenue sur la version de démonstration de l'application 'PERSUA2mooc' "
+"développée par le l'équipe SILEX du laboratoire LIRIS, CNRS de l'Université "
+"Lyon 1. Ce travail est réalisé dans le cadre du projet COAT (Connaissance "
+"Ouverte A Tous).La version présentée ici est en cours de développement, et "
+"toutes les fonctionnalités ne sont pas encore disponibles. Le fonctionnement "
+"sur tout navigateur autre que Firefox n'est pas garanti (pour le moment...). "
+"Tout retour de votre part concernant cette version de test sera le bienvenu, "
+"et nous permettra d'améliorer la solution que nous proposons."
+
+msgid "fileChoice.links"
+msgstr ""
+"Voici quelques liens qui vous permettront de comprendre le projet 'Mise en "
+"place de la personnalisation dans le cadre des MOOCs', ainsi que le "
+"fonctionnement de la présente application : "
+
+msgid "fileChoice.coatLink"
+msgstr "Wiki du projet COAT"
+
+msgid "fileChoice.internshipLink"
+msgstr "Présentation du stage concerné par le projet - Présentation des enjeux"
+
+msgid "fileChoice.modelLink"
+msgstr "Présentation du modèle PERSUA2mooc et de l'application"
+
+msgid "fileChoice.readPresentation"
+msgstr ""
+"Avant toute utilisation de cette application, consultez la présentation du "
+"modèle PERSUA2MOOC pour bien comprendre son fonctionnement."
+
+#
+#
+# File choice page
+#
+#
+msgid "fileChoice.delete.confirm"
+msgstr ""
+"Êtes-vous sûr de vouloir supprimer ce fichier ? Toute suppression est "
+"définitive."
+
+msgid "File successfully removed"
+msgstr "Le fichier a bien été supprimé"
+
+msgid "fileChoice.profile.instr"
+msgstr ""
+"Dans cette section vous pouvez choisir un profil afin de modifier ses "
+"valeurs, et réaliser des tests avec vos stratégies pédagogiques."
+
+msgid "fileChoice.liveContext.instr"
+msgstr ""
+"Dans cette section vous pouvez choisir un contexte 'live' afin de modifier "
+"ses valeurs, et réaliser des tests avec vos stratégies pédagogiques."
+
+msgid "fileChoice.sequenceContext.instr"
+msgstr ""
+"Choisissez un contexte de séquence, et vous pourrez éditer ses valeurs."
+
+msgid "fileChoice.strategy.instr"
+msgstr ""
+"Sélectionnez une stratégie (ou créez une nouvelle stratégie), et définissez "
+"ce que vous pensez être le mieux pour les apprenants"
+
+msgid "fileChoice.resources.instr"
+msgstr "Dans cette section, changez les propriétés des resssources du MOOC"
+
+msgid "Main Menu"
+msgstr "Menu principal"
+
+msgid "Sequence Context Edition"
+msgstr "Modification du contexte de séquence"
+
+msgid "Strategy Edition"
+msgstr "Modification de la stratégie"
+
+msgid "Profile Edition"
+msgstr "Modification du profil"
+
+msgid "Live Context Edition"
+msgstr "Modification du contexte 'en direct'"
+
+msgid "Resources Edition"
+msgstr "Modification des propriétés des ressources"
+
+msgid "Open file"
+msgstr "Ouvrir"
+
+msgid "Create new file"
+msgstr "Créer fichier"
+
+msgid "Duplicate file"
+msgstr "Dupliquer le fichier"
+
+msgid "Delete file"
+msgstr "Supprimer le fichier"
+
+msgid "languageChoice"
+msgstr "Choisissez votre langue: "
+
+#
+#
+# Values modification page
+#
+#
+msgid "valuesModification.h1"
+msgstr "Interface de modification : "
+
+msgid "valuesModification.instructions"
+msgstr ""
+"Vous pouvez changer les valeurs en cliquant sur elles, puis en donnant la "
+"valeur souhaitée dans le formulaire afffiché, et en pressant 'entrée' pour "
+"valider la saisie. N'oubliez pas de sauvegarder le fichier une fois vos "
+"modifications terminées."
+
+msgid "valuesModification.currentFileIntro"
+msgstr "Modification de : "
+
+msgid "filechoice.strategyTest.instr"
+msgstr ""
+"Sélectionnez une stratégie, un profil d'apprenant, un contexte 'live' et un "
+"contexte de séquence, découvrez la boussole qui sera ainsi générée !"
+
+#
+#
+# Values modification page
+#
+#
+msgid "resourcesModification.h1"
+msgstr "Modification des propriétés des ressources"
+
+msgid "resourcesModification.currentFileIntro"
+msgstr "Vous éditez les ressources du fichier "
+
+msgid "resourcesModification.instructions"
+msgstr ""
+"Ajoutez ou supprimez des ressources, et éditez leurs propriétés en cliquant "
+"sur l'icône de modification."
+
+msgid "paramModal.h4"
+msgstr "Modification des propriétés"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "strategyTest.h1"
+msgstr "Test de stratégie pédagogique"
+
+msgid "strategyTest.currentFileIntro"
+msgstr "Vous testez : "
+
+msgid "strategyTest.instructions"
+msgstr "Voici la boussole telle qu'elle sera vue par l'apprenant :"
+
+msgid "Maximum of points"
+msgstr "Nombre de points maximum"
+
+msgid "Grade?"
+msgstr "Noté ?"
+
+msgid "Strategy testing"
+msgstr "Test de la stratégie"
+
+msgid "profile"
+msgstr "Profil"
+
+msgid "Chose your strategy"
+msgstr "Stratégie"
+
+msgid "You are using files: "
+msgstr "Vous utilisez les fichiers :"
+
+msgid "Live Context"
+msgstr "Contexte 'en direct'"
+
+msgid "Sequence Context"
+msgstr "Contexte de la séquence"
+
+msgid "boussole.hello"
+msgstr "Bonjour. Nous vous proposons de réaliser les activités suivantes : "
+
+msgid "boussole.conclusion.begin"
+msgstr "Vous avez ainsi "
+
+msgid "boussole.conclusion.nbAct"
+msgstr " activités à réaliser, et cela devrait durer environ "
+
+msgid "boussole.social.intro"
+msgstr "Allez sur "
+
+msgid "boussole.social.twitter"
+msgstr "le réseau social Twitter"
+
+msgid "boussole.social.forum"
+msgstr "le forum du cours "
+
+msgid "boussole.social.facebook"
+msgstr "le réseau social Facebook"
+
+msgid "boussole.social.google"
+msgstr "le réseau social Google+"
+
+msgid "boussole.social.answer"
+msgstr ", et portez secours aux autres apprenants qui y posent des questions "
+
+msgid "boussole.social.read"
+msgstr ", et lisez les messages qui pourraient vous intéresser "
+
+msgid "boussole.social.create"
+msgstr ""
+", et posez vos questions ou présentez vos réflexions aux autres participants "
+
+msgid "boussole.social.time"
+msgstr "passez-y environ"
+
+msgid "boussole.message.encouraging"
+msgstr ""
+"Continuez vos efforts, bientôt vous serez un as de la colonne vertébrale !"
+
+msgid "boussole.message.greeting"
+msgstr ""
+"Bonjour, ravi de vous retrouver aujourd'hui pour étudier cette belle matière "
+"qu'est l'anatomie !"
+
+msgid "boussole.learning.groupIntro"
+msgstr "Consultez certaines ressources de la section "
+
+msgid "boussole.learning.groupCcl"
+msgstr "elles sont listées ci-dessous"
+
+msgid "Consult "
+msgstr "Consultez "
+
+msgid "boussole.exercice.grade"
+msgstr "Faites l'exercice noté "
+
+msgid "boussole.exercice.nograde"
+msgstr "Faites l'exercice (non noté) "
+
+#
+#
+# Statistics
+#
+#
+msgid "statistics.h1"
+msgstr "Statistiques générales sur les apprenants du MOOC"
+
+msgid "statistics.instructions"
+msgstr ""
+"Voici, pour chaque indicateur, des statistiques (répartition, moyennes,...) "
+"permettant d'avoir une vue globale des apprenants sur ce MOOC."
+
+msgid "There are currently "
+msgstr "Il y a actuellement "
+
+msgid " learners in the MOOC"
+msgstr " apprenants dans le MOOC"
+
+msgid "fileChoice.statistics.link"
+msgstr "Statistiques générales"
+
+msgid "fileChoice.association.link"
+msgstr "Associer stratégies et contextes aux séquences du MOOC"
+
+#
+#
+# Values modification page
+#
+#
+msgid "association.h1"
+msgstr "Association séquences - stratégies et contextes"
+
+msgid "association.instructions"
+msgstr ""
+"Pour chaque séquence du MOOC, indiquez quelles sont la stratégie et le "
+"contexte de séquence à employer afin de personnaliser les activités à chacun "
+"des apprenants."
+
+msgid "Strategy: "
+msgstr "Stratégie : "
+
+msgid "Context: "
+msgstr "Contexte : "
+
+#~ msgid "Orders"
+#~ msgstr "Ordres"
+
+#~ msgid "strategyTest.h1strategyTest"
+#~ msgstr "Test de stratégie pédagogique"
+
+#, fuzzy
+#~ msgid "Currently defining "
+#~ msgstr "Modification de "
+
+#~ msgid "Selection of indicators"
+#~ msgstr "Sélection des indicateurs"
+
+#~ msgid "Definition of pedagogical strategy"
+#~ msgstr "Définition de la stratégie pédagogique"
+
+#~ msgid "Add new Rule"
+#~ msgstr "Ajouter une nouvelle règle"
+
+#~ msgid "Rules you already defined:"
+#~ msgstr "Règles déjà définies :"
+
+#~ msgid "Selection of the activities"
+#~ msgstr "Sélection des activités"

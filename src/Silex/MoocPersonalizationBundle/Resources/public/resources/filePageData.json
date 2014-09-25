@@ -1,0 +1,61 @@
+{	
+	"sections":[
+		"strategy",
+		"sequenceContext",
+        "resources",
+		"profile",
+		"liveContext",
+		"strategyTest"
+	],
+
+    "h2":{
+        "profile":"Profile Edition",
+        "liveContext":"Live Context Edition",
+        "sequenceContext":"Sequence Context Edition",
+        "strategy":"Strategy Edition",
+        "resources":"Resources Edition",
+		"strategyTest": "Strategy testing"
+    },
+    "instruction":{
+        "profile":"fileChoice.profile.instr",
+        "liveContext":"fileChoice.liveContext.instr",
+        "sequenceContext":"fileChoice.sequenceContext.instr",
+        "strategy":"fileChoice.strategy.instr",
+        "resources": "fileChoice.resources.instr",
+		"strategyTest": "filechoice.strategyTest.instr"
+    },
+    "path":{
+        "profile":"data\/teacher\/profiles\/",
+        "liveContext":"data\/teacher\/liveContexts\/",
+        "sequenceContext":"data\/teacher\/sequenceContexts\/",
+        "strategy":"data\/teacher\/strategies\/",
+        "resources":"data\/resources\/",
+		"strategyTest": "data\/teacher\/strategies\/"
+    },
+    "interface":{
+        "profile":"fileValuesModification.php",
+        "liveContext":"fileValuesModification.php",
+        "sequenceContext":"fileValuesModification.php",
+        "strategy":"rules_definition.php",
+        "resources":"resourcesModification.php",
+		"strategyTest": "strategyTest.php"
+    },
+    
+    "schema":{
+        "profile":"data\/models\/learnerMoocProfile.xsd",
+        "liveContext":"data\/models\/context.xsd",
+        "sequenceContext":"data\/models\/context.xsd",
+        "strategy":"",
+        "resources":"",
+		"strategyTest": ""
+    },
+    
+    "scales":{
+        "profile":"data\/infos\/profileScales.json",
+        "liveContext":"data\/infos\/contextScales.json",
+        "sequenceContext":"data\/infos\/contextScales.json",
+        "strategy":"data\/models\/foveaPedagogicalProperties.xml",
+        "resources":"data\/models\/foveaPedagogicalProperties.xml",
+		"strategyTest": ""
+    }
+}

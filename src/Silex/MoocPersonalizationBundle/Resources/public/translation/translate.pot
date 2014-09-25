@@ -1,0 +1,1101 @@
+# Mooc personalization
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+#
+#
+#Titles of the main parts
+#
+#
+
+msgid "strategy.h1"
+msgstr ""
+
+msgid "strategy.currentFileIntro"
+msgstr ""
+
+msgid "strategy.profiles.h2"
+msgstr ""
+
+msgid "strategy.profiles.explanation"
+msgstr ""
+
+msgid "common.back"
+msgstr ""
+
+msgid "strategy.rules.h2"
+msgstr ""
+
+msgid "strategy.rules.add"
+msgstr ""
+
+msgid "strategy.rules.save"
+msgstr ""
+
+msgid "strategy.rules.instructions"
+msgstr ""
+
+msgid "strategy.rules.defined.h3"
+msgstr ""
+
+msgid "strategy.activities.h2"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Context"
+msgstr ""
+
+msgid "context"
+msgstr ""
+
+msgid "Save modifications"
+msgstr ""
+
+
+
+#
+#
+#Activities
+#
+#
+
+
+
+
+msgid "Learning"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Sequence"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Difficulty"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Social"
+msgstr ""
+
+msgid "Tool"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Exercise"
+msgstr ""
+
+msgid "Grade"
+msgstr ""
+
+msgid "Attempts"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Goal"
+msgstr ""
+
+
+
+
+
+
+
+#
+#
+#LearnerProfile
+#
+#
+
+
+
+
+
+
+
+
+
+
+
+msgid "learnerMoocProfile"
+msgstr ""
+
+msgid "learnerInformation"
+msgstr ""
+
+msgid "id"
+msgstr ""
+
+msgid "email"
+msgstr ""
+
+msgid "birthDate"
+msgstr ""
+
+msgid "sex"
+msgstr ""
+
+msgid "professionalSituation"
+msgstr ""
+
+msgid "educationLevel"
+msgstr ""
+
+msgid "educationDomain"
+msgstr ""
+
+msgid "country"
+msgstr ""
+
+msgid "languages"
+msgstr ""
+
+msgid "language"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "skill"
+msgstr ""
+
+msgid "registrationDate"
+msgstr ""
+
+msgid "colourBlind"
+msgstr ""
+
+msgid "externalToolsKnowledge"
+msgstr ""
+
+msgid "externalTool"
+msgstr ""
+
+msgid "toolName"
+msgstr ""
+
+msgid "grade"
+msgstr ""
+
+msgid "otherInformation"
+msgstr ""
+
+msgid "knowledge"
+msgstr ""
+
+msgid "courseKnowledge"
+msgstr ""
+
+msgid "knowledgeGroup"
+msgstr ""
+
+msgid "value"
+msgstr ""
+
+msgid "knowledgeUnit"
+msgstr ""
+
+msgid "toolsKnowledge"
+msgstr ""
+
+msgid "knowledgeTool"
+msgstr ""
+
+msgid "behaviour"
+msgstr ""
+
+msgid "studentPattern"
+msgstr ""
+
+msgid "dropoutFlag"
+msgstr ""
+
+msgid "IRLInteraction"
+msgstr ""
+
+msgid "socialInteractions"
+msgstr ""
+
+msgid "socialInteraction"
+msgstr ""
+
+msgid "socialTool"
+msgstr ""
+
+msgid "forumBehaviour"
+msgstr ""
+
+msgid "otherBehaviour"
+msgstr ""
+
+msgid "moocInteractions"
+msgstr ""
+
+msgid "activityDistributions"
+msgstr ""
+
+msgid "activityPerHour"
+msgstr ""
+
+msgid "hour"
+msgstr ""
+
+msgid "num"
+msgstr ""
+
+msgid "timePercentage"
+msgstr ""
+
+msgid "actionsPercentage"
+msgstr ""
+
+msgid "activityPerDay"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
+msgid "activityPerSequence"
+msgstr ""
+
+msgid "sequence"
+msgstr ""
+
+msgid "lastVisits"
+msgstr ""
+
+msgid "visit"
+msgstr ""
+
+msgid "otherDynamics"
+msgstr ""
+
+msgid "resourcesInteractions"
+msgstr ""
+
+msgid "resourcesConsultation"
+msgstr ""
+
+msgid "resourceConsultation"
+msgstr ""
+
+msgid "resourceId"
+msgstr ""
+
+msgid "nbConsultations"
+msgstr ""
+
+msgid "childrenConsultationsDistribution"
+msgstr ""
+
+msgid "childPercentage"
+msgstr ""
+
+msgid "resource"
+msgstr ""
+
+msgid "percentage"
+msgstr ""
+
+msgid "duration"
+msgstr ""
+
+msgid "childrenDurationDistribution"
+msgstr ""
+
+msgid "completion"
+msgstr ""
+
+msgid "comparedPercentage"
+msgstr ""
+
+msgid "scale"
+msgstr ""
+
+msgid "consultationDuringHomework"
+msgstr ""
+
+msgid "totalTimeOnHomework"
+msgstr ""
+
+msgid "timeOtherResourcesDuringHw"
+msgstr ""
+
+msgid "distribution"
+msgstr ""
+
+msgid "courseware"
+msgstr ""
+
+msgid "forum"
+msgstr ""
+
+msgid "wiki"
+msgstr ""
+
+msgid "exercises"
+msgstr ""
+
+msgid "customInteractionIndicator"
+msgstr ""
+
+msgid "actionId"
+msgstr ""
+
+msgid "period"
+msgstr ""
+
+msgid "interval"
+msgstr ""
+
+msgid "beginDateTime"
+msgstr ""
+
+msgid "endDateTime"
+msgstr ""
+
+msgid "comment"
+msgstr ""
+
+msgid "spaceStructuring"
+msgstr ""
+
+msgid "mentalImagesCreation"
+msgstr ""
+
+msgid "mentalRotations"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+
+
+#
+#
+#Context display
+#
+#
+
+
+
+msgid "sequenceContext"
+msgstr ""
+
+msgid "activitiesContext"
+msgstr ""
+
+msgid "numberOfActivities"
+msgstr ""
+
+msgid "min"
+msgstr ""
+
+msgid "max"
+msgstr ""
+
+msgid "activitiesDuration"
+msgstr ""
+
+msgid "quizVariation"
+msgstr ""
+
+msgid "liveContext"
+msgstr ""
+
+msgid "environmentContext"
+msgstr ""
+
+msgid "datetime"
+msgstr ""
+
+msgid "connecteds"
+msgstr ""
+
+msgid "connected"
+msgstr ""
+
+msgid "role"
+msgstr ""
+
+msgid "number"
+msgstr ""
+
+msgid "learnerLiveContext"
+msgstr ""
+
+msgid "IPAddress"
+msgstr ""
+
+msgid "device"
+msgstr ""
+
+msgid "OS"
+msgstr ""
+
+msgid "browser"
+msgstr ""
+
+msgid "bandwidth"
+msgstr ""
+
+msgid "availableTime"
+msgstr ""
+
+msgid "delay"
+msgstr ""
+
+msgid "timeAlreadySpent"
+msgstr ""
+
+msgid "otherLiveInformation"
+msgstr ""
+
+
+
+
+
+
+#
+#
+#Display rule
+#
+#
+
+
+
+
+msgid "Save rule"
+msgstr ""
+
+
+msgid "Priority: "
+msgstr ""
+
+msgid "Rule"
+msgstr ""
+
+msgid "strategy.rules.newrule.delete"
+msgstr ""
+
+msgid "strategy.rules.cantedit"
+msgstr ""
+
+msgid "IF"
+msgstr ""
+
+msgid "AND"
+msgstr ""
+
+msgid "OR"
+msgstr ""
+
+msgid "THEN"
+msgstr ""
+
+msgid "ELSE"
+msgstr ""
+
+msgid "strategy.rules.learnerActivity"
+msgstr ""
+
+msgid "strategy.rules.parametersListIntro"
+msgstr ""
+
+msgid "strategy.rules.newrule.deleteActivity"
+msgstr ""
+
+msgid "strategy.save.success"
+msgstr ""
+
+msgid "strategy.rules.delete"
+msgstr ""
+
+msgid "true or false"
+msgstr ""
+
+msgid "scales.enumeration.intro"
+msgstr ""
+
+msgid "scales.value.intro"
+msgstr ""
+
+msgid "scales.usedValuesIntro"
+msgstr ""
+
+msgid " number"
+msgstr ""
+
+msgid "n integer"
+msgstr ""
+
+msgid " number, with step "
+msgstr ""
+
+msgid "scales.noscale"
+msgstr ""
+
+msgid "Mandatory"
+msgstr ""
+
+msgid "Optional"
+msgstr ""
+
+msgid "Bonus"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Read"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Greeting"
+msgstr ""
+
+msgid "Encouraging"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Results"
+msgstr ""
+
+msgid "strategy.rules.newrule.chose.indicator"
+msgstr ""
+
+msgid "strategy.rules.newrule.chose.activity"
+msgstr ""
+
+msgid "strategy.rules.newrule.chose.parameter"
+msgstr ""
+
+msgid "Add activity"
+msgstr ""
+
+msgid "Place above"
+msgstr ""
+
+
+#
+#
+#Profile Scales
+#
+#
+
+
+msgid "xs:duration"
+msgstr ""
+
+msgid "xs:float"
+msgstr ""
+
+msgid "xs:NCName"
+msgstr ""
+
+msgid "xs:integer"
+msgstr ""
+
+msgid "xs:NMTOKENS"
+msgstr ""
+
+msgid "xs:NMTOKEN"
+msgstr ""
+
+msgid "xs:date"
+msgstr ""
+
+msgid "xs:string"
+msgstr ""
+
+msgid "xs:boolean"
+msgstr ""
+
+msgid "xs:anyType"
+msgstr ""
+
+msgid "xs:dateTime"
+msgstr ""
+
+msgid "xs:positiveInteger"
+msgstr ""
+
+msgid "phone"
+msgstr ""
+
+msgid "tablet"
+msgstr ""
+
+msgid "computer"
+msgstr ""
+
+msgid "google_search_engine"
+msgstr ""
+
+msgid "consultation"
+msgstr ""
+
+msgid "play"
+msgstr ""
+
+msgid "pause"
+msgstr ""
+
+msgid "seek_fwd"
+msgstr ""
+
+msgid "seek_bck"
+msgstr ""
+
+msgid "change_speed"
+msgstr ""
+
+msgid "answer_forum"
+msgstr ""
+
+msgid "new_thread_forum"
+msgstr ""
+
+msgid "vote_forum"
+msgstr ""
+
+msgid "save_quiz"
+msgstr ""
+
+msgid "reset_quiz"
+msgstr ""
+
+msgid "submit_quiz"
+msgstr ""
+
+msgid "show_answer"
+msgstr ""
+
+msgid "submit_assignment"
+msgstr ""
+
+msgid "save_assignment"
+msgstr ""
+
+msgid "noshow"
+msgstr ""
+
+msgid "active_completing"
+msgstr ""
+
+msgid "passive_completing"
+msgstr ""
+
+msgid "auditing"
+msgstr ""
+
+msgid "disengaging"
+msgstr ""
+
+msgid "disengaging_dropout"
+msgstr ""
+
+msgid "sampling"
+msgstr ""
+
+msgid "absent"
+msgstr ""
+
+msgid "reader"
+msgstr ""
+
+msgid "actor"
+msgstr ""
+
+msgid "native"
+msgstr ""
+
+msgid "bilingual"
+msgstr ""
+
+msgid "fluent"
+msgstr ""
+
+msgid "moderate"
+msgstr ""
+
+msgid "unskilled"
+msgstr ""
+
+msgid "active"
+msgstr ""
+
+msgid "unemployed"
+msgstr ""
+
+msgid "student"
+msgstr ""
+
+msgid "retiree"
+msgstr ""
+
+msgid "primary"
+msgstr ""
+
+msgid "secondary"
+msgstr ""
+
+msgid "bachelor"
+msgstr ""
+
+msgid "master"
+msgstr ""
+
+msgid "doctoral"
+msgstr ""
+
+msgid " between "
+msgstr ""
+
+msgid " and "
+msgstr ""
+
+msgid ": "
+msgstr ""
+
+msgid "scales.enumeration.conclu"
+msgstr ""
+
+msgid "Edit rule"
+msgstr ""
+
+msgid "Delete rule"
+msgstr ""
+
+msgid "Duplicate rule"
+msgstr ""
+
+msgid "Remove constraint"
+msgstr ""
+
+msgid "Edit constraint"
+msgstr ""
+
+msgid "Edit value"
+msgstr ""
+
+msgid "Remove activity"
+msgstr ""
+
+msgid "Remove parameter"
+msgstr ""
+
+msgid "Add parameter"
+msgstr ""
+
+msgid "More information"
+msgstr ""
+
+msgid "Validate"
+msgstr ""
+
+msgid "Combine with another constraint"
+msgstr ""
+
+
+
+
+#
+#
+#File choice page
+#
+#
+
+msgid "fileChoice.h1"
+msgstr ""
+
+msgid "fileChoice.explanations"
+msgstr ""
+
+msgid "fileChoice.links"
+msgstr ""
+
+msgid "fileChoice.coatLink"
+msgstr ""
+
+msgid "fileChoice.internshipLink"
+msgstr ""
+
+msgid "fileChoice.modelLink"
+msgstr ""
+
+msgid "fileChoice.readPresentation"
+msgstr ""
+
+msgid "fileChoice.delete.confirm"
+msgstr ""
+
+msgid "File successfully removed"
+msgstr ""
+
+msgid "fileChoice.profile.instr"
+msgstr ""
+
+msgid "fileChoice.liveContext.instr"
+msgstr ""
+
+msgid "fileChoice.sequenceContext.instr"
+msgstr ""
+
+msgid "fileChoice.strategy.instr"
+msgstr ""
+
+msgid "fileChoice.resources.instr"
+msgstr ""
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "Sequence Context Edition"
+msgstr ""
+
+msgid "Strategy Edition"
+msgstr ""
+
+msgid "Profile Edition"
+msgstr ""
+
+msgid "Live Context Edition"
+msgstr ""
+
+msgid "Resources Edition"
+msgstr ""
+
+msgid "Open file"
+msgstr ""
+
+msgid "Create new file"
+msgstr ""
+
+msgid "Duplicate file"
+msgstr ""
+
+msgid "Delete file"
+msgstr ""
+
+msgid "languageChoice"
+msgstr ""
+
+
+
+
+
+#
+#
+#Values modification page
+#
+#
+
+
+msgid "valuesModification.h1"
+msgstr ""
+
+msgid "valuesModification.instructions"
+msgstr ""
+
+msgid "valuesModification.currentFileIntro"
+msgstr ""
+
+
+#
+#
+#Resources and strategy
+#
+#
+
+
+msgid "filechoice.strategyTest.instr"
+msgstr ""
+
+msgid "resourcesModification.h1"
+msgstr ""
+
+msgid "resourcesModification.currentFileIntro"
+msgstr ""
+
+msgid "resourcesModification.instructions"
+msgstr ""
+
+msgid "paramModal.h4"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "strategyTest.h1"
+msgstr ""
+
+msgid "strategyTest.currentFileIntro"
+msgstr ""
+
+msgid "strategyTest.instructions"
+msgstr ""
+
+msgid "Maximum of points"
+msgstr ""
+
+msgid "Grade?"
+msgstr ""
+
+msgid "Strategy testing"
+msgstr ""
+
+msgid "profile"
+msgstr ""
+
+msgid "Chose your strategy"
+msgstr ""
+
+msgid "You are using files: "
+msgstr ""
+ 
+msgid "Live Context"
+msgstr ""
+
+msgid "Sequence Context"
+msgstr ""
+
+msgid "boussole.hello"
+msgstr ""
+
+msgid "boussole.conclusion.begin"
+msgstr ""
+
+msgid "boussole.conclusion.nbAct"
+msgstr ""
+
+msgid "boussole.social.intro"
+msgstr ""
+
+msgid "boussole.social.twitter"
+msgstr ""
+
+msgid "boussole.social.forum"
+msgstr ""
+
+msgid "boussole.social.facebook"
+msgstr ""
+
+msgid "boussole.social.google"
+msgstr ""
+
+msgid "boussole.social.answer"
+msgstr ""
+
+msgid "boussole.social.read"
+msgstr ""
+
+msgid "boussole.social.create"
+msgstr ""
+
+msgid "boussole.social.time"
+msgstr ""
+
+msgid "boussole.message.encouraging"
+msgstr ""
+
+msgid "boussole.message.greeting"
+msgstr ""
+
+msgid "boussole.learning.groupIntro"
+msgstr ""
+
+msgid "boussole.learning.groupCcl"
+msgstr ""
+
+msgid "Consult "
+msgstr ""
+
+msgid "boussole.exercice.grade"
+msgstr ""
+
+msgid "boussole.exercice.nograde"
+msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+#
+#
+#Statistics
+#
+#
+
+msgid "statistics.h1"
+msgstr ""
+
+msgid "statistics.instructions"
+msgstr ""
+
+msgid "There are currently "
+msgstr ""
+
+msgid " learners in the MOOC"
+msgstr ""
+
+msgid "fileChoice.statistics.link"
+msgstr ""
+
+
+#
+#
+#Association
+#
+#
+
+msgid "fileChoice.association.link"
+msgstr ""
+
+msgid "association.h1"
+msgstr ""
+
+msgid "association.instructions"
+msgstr ""
+
+msgid "Strategy: "
+msgstr ""
+
+msgid "Context: "
+msgstr ""
