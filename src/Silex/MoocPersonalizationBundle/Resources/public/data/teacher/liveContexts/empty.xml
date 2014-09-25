@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liveContext id="CTX0">
+    <environmentContext id="CTX1">
+        <datetime id="CTX2"/>
+        <connecteds id="CTX3">
+            <connected id="CTX4">
+                <role id="CTX5" fixed="true">teacher</role>
+                <number id="CTX6"/>
+            </connected>
+            <connected id="CTX7">
+                <role id="CTX8" fixed="true">learner</role>
+                <number id="CTX9"/>
+            </connected>
+        </connecteds>
+    </environmentContext>
+    <learnerLiveContext id="CTX10">
+        <IPAddress id="CTX11"/>
+        <device id="CTX12"/>
+        <OS id="CTX13"/>
+        <browser id="CTX14"/>
+        <bandwidth id="CTX15"/>
+        <availableTime id="CTX16"/>
+        <delay id="CTX17"/>
+        <timeAlreadySpent id="CTX18"/>
+    </learnerLiveContext>
+</liveContext>
