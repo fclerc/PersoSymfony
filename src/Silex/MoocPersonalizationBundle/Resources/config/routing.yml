@@ -1,3 +1,7 @@
 silex_mooc_personalization_homepage:
-    path:     /hello/{name}
-    defaults: { _controller: SilexMoocPersonalizationBundle:Default:index }
+    path:     /
+    defaults: { _controller: SilexMoocPersonalizationBundle:Home:index }
+    
+HelloTheWorld:
+    path:     /hello-world
+    defaults: { _controller: SilexMoocPersonalizationBundle:Perso:index }
