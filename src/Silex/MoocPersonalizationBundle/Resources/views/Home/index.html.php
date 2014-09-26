@@ -15,18 +15,18 @@
             <h1 class="toTranslate">fileChoice.h1</h1>
             <p class="toTranslate">fileChoice.explanations</p>
             
-            <a href="manuals/manuel_utilisateur.pdf">Manuel Utilisateur de l'application</a>
+            <a href="<?php echo $view['assets']->getUrl('bundles/silexmoocpersonalization/manuals/manuel_utilisateur.pdf') ?>">Manuel Utilisateur de l'application</a>
             <br/>
-            <a href="manuals/rapport.pdf">Rapport détaillant le modèle exploité</a></p>.
+            <a href="<?php echo $view['assets']->getUrl('bundles/silexmoocpersonalization/manuals/rapport.pdf') ?>">Rapport détaillant le modèle exploité</a></p>.
             <hr/>
             <!--<a href="statistics.php" class="toTranslate btn btn-primary" id="statsLink">fileChoice.statistics.link</a><br/>-->
             <a href="<?php echo $statisticsPath ?>" class="toTranslate btn btn-primary" id="statsLink">fileChoice.statistics.link</a><br/>
-            <a href="sequence_association.php" class="toTranslate btn btn-primary" id="associationsLink">fileChoice.association.link</a>
+            <a href="<?php echo $sequence_associationPath ?>" class="toTranslate btn btn-primary" id="associationsLink">fileChoice.association.link</a>
             
             
     
             <div id="sectionsContainer"/>
-            </div>
+        </div>
             
             
             
@@ -41,6 +41,7 @@
         $lang = $view['request']->getLocale(); 
          
         $data = json_decode(file_get_contents($publicPath.'resources/filePageData.json'));
+        //$data = json_decode(file_get_contents($view['assets']->getUrl('bundles/silexmoocpersonalization/resources/filePageData.json')));
         
         //adding for each section the list of files available (for example the list of strategy files in data/teacher/strategies)
         $sections = $data->sections;
@@ -51,8 +52,6 @@
                 $files[$section] = $sectionFiles;
         }
         $data->files = $files;
-        
-        $publicPathJs = $str = str_replace('\\', '/', $publicPath);
         
         $translationPath = $publicPath.'translation/'.$lang.'.json';
         $translationFile = json_decode(file_get_contents($translationPath));

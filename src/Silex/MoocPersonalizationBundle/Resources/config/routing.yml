@@ -10,3 +10,7 @@ statistics:
     path: /statistics
     defaults: { _controller: SilexMoocPersonalizationBundle:Statistics:index }
     
+sequence_association:
+    path: /sequence_association
+    defaults: { _controller: SilexMoocPersonalizationBundle:SequenceAssociation:index }
+    

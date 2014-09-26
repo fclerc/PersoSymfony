@@ -13,10 +13,13 @@ class HomeController extends Controller{
         $publicPath = $kernel->locateResource('@SilexMoocPersonalizationBundle/Resources/public/');
         
         $statisticsPath = $this->get('router')->generate('statistics');
+        $sequence_associationPath = $this->get('router')->generate('sequence_association');
+        
         
         return $this->render('SilexMoocPersonalizationBundle:Home:index.html.php',
                     ['publicPath' => $publicPath,
-                    'statisticsPath' => $statisticsPath
+                    'statisticsPath' => $statisticsPath,
+                    'sequence_associationPath' => $sequence_associationPath
                 
                 
                     ]);
