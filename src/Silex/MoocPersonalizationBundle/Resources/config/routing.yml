@@ -2,3 +2,11 @@ silex_mooc_personalization_homepage:
     path:     /
     defaults: { _controller: SilexMoocPersonalizationBundle:Home:index }
     
+fileValuesModicfication:
+    path: /fileValuesModification
+    defaults: { _controller: SilexMoocPersonalizationBundle:FileValuesModification:index }
+    
+statistics:
+    path: /statistics
+    defaults: { _controller: SilexMoocPersonalizationBundle:Statistics:index }
+    

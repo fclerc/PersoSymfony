@@ -12,7 +12,14 @@ class HomeController extends Controller{
         $kernel = $this->container->get('kernel');
         $publicPath = $kernel->locateResource('@SilexMoocPersonalizationBundle/Resources/public/');
         
-        return $this->render('SilexMoocPersonalizationBundle:Home:index.html.php', array('publicPath' => $publicPath));
+        $statisticsPath = $this->get('router')->generate('statistics');
+        
+        return $this->render('SilexMoocPersonalizationBundle:Home:index.html.php',
+                    ['publicPath' => $publicPath,
+                    'statisticsPath' => $statisticsPath
+                
+                
+                    ]);
     }
     
 }

@@ -19,13 +19,14 @@
             <br/>
             <a href="manuals/rapport.pdf">Rapport détaillant le modèle exploité</a></p>.
             <hr/>
-            <a href="statistics.php" class="toTranslate btn btn-primary" id="statsLink">fileChoice.statistics.link</a><br/>
+            <!--<a href="statistics.php" class="toTranslate btn btn-primary" id="statsLink">fileChoice.statistics.link</a><br/>-->
+            <a href="<?php echo $statisticsPath ?>" class="toTranslate btn btn-primary" id="statsLink">fileChoice.statistics.link</a><br/>
             <a href="sequence_association.php" class="toTranslate btn btn-primary" id="associationsLink">fileChoice.association.link</a>
             
             
     
             <div id="sectionsContainer"/>
-        </div>
+            </div>
             
             
             
