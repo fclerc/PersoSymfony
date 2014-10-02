@@ -11,9 +11,9 @@ class StatisticsController extends Controller{
         $kernel = $this->container->get('kernel');
         $publicPath = $kernel->locateResource('@SilexMoocPersonalizationBundle/Resources/public/');
         
-        return new Response('your stats');
+        //return new Response('your stats');
         
-        //return $this->render('SilexMoocPersonalizationBundle:Home:index.html.php', array('publicPath' => $publicPath));
+        return $this->render('SilexMoocPersonalizationBundle:Statistics:index.html.php', array('publicPath' => $publicPath));
     }
     
 }

@@ -20,9 +20,8 @@ class HomeController extends Controller{
                     ['publicPath' => $publicPath,
                     'statisticsPath' => $statisticsPath,
                     'sequence_associationPath' => $sequence_associationPath
-                
-                
-                    ]);
+                    ]
+        );
     }
     
 }
