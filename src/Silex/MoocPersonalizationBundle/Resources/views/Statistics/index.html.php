@@ -2,5 +2,5 @@
 
 <div class="container">
     Hello
-    
+    <?php echo $lang; ?>
 </div>
